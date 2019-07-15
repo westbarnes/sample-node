@@ -1,0 +1,15 @@
+{
+  "name": "sample-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "West Barnes",
+  "license": "MIT",
+  "dependencies": {
+    "rocket-server": "^0.1.1"
+  }
+}
